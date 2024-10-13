@@ -40,7 +40,7 @@ const Home = () => {
         <div className="right">
           <div className="img" data-aos="fade-up-left"
             data-aos-duration="1000">
-            <img src={`/assets/${hero.imgSrc}`} alt="hero" />
+            <img src={require('../components/hero/limon.jpg')} alt="hero" />
 
 
           </div>

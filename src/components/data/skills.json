@@ -1,52 +1,50 @@
 [
-
   {
-    "title": "C",
-    "imageSrc": "skills/c.png"
+    "id": 1,
+    "title": "C"
   },
   {
-    "title": "C++",
-    "imageSrc": "skills/c++.png"
-  },
-
-  {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "id": 2,
+    "title": "C++"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "id": 3,
+    "title": "HTML"
   },
   {
-    "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "id": 4,
+    "title": "CSS"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "id": 5,
+    "title": "JavaScript"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "id": 6,
+    "title": "React"
   },
   {
-    "title":"Mysql",
-    "imageSrc":"skills/mysql.png"
+    "id": 7,
+    "title": "Node"
   },
   {
-    "title": "Machine Learning",
-    "imageSrc": "skills/machine.png"
+    "id": 8,
+    "title": "MySQL"
   },
   {
-    "title": "Deep Learning",
-    "imageSrc": "skills/deep.png"
+    "id": 9,
+    "title": "Machine Learning"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "id": 10,
+    "title": "Deep Learning"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "id": 11,
+    "title": "MongoDB"
+  },
+  {
+    "id": 12,
+    "title": "Figma"
   }
 ]

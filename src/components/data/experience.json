@@ -8,8 +8,8 @@
     "location": "Dhaka, Bangladesh",
     "experiences": [
       "Worked on Research Paper"
-    ],
-    "imageSrc": "company/explore.png"
+    ]
+    
   },
 
   {
@@ -21,8 +21,8 @@
     "location": "Dhaka, Bangladesh",
     "experiences": [
       "Worked on CNN model "
-    ],
-    "imageSrc": "company/kaggle.png"
+    ]
+    
   }
 
 
