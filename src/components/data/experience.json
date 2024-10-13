@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "role": "Participate for IEEE International Conference",
+    "organisation": "MIST",
+    "startDate": "JUN, 2024",
+    "endDate": "OCT, 2024",
+    "location": "Dhaka, Bangladesh",
+    "experiences": [
+      "Worked on Research Paper"
+    ],
+    "imageSrc": "company/explore.png"
+  },
+
+  {
+    "id": 2,
+    "role": "Participate in Kaggle for Olympiad",
+    "organisation": "UIU",
+    "startDate": "May, 2024",
+    "endDate": "Sep, 2024",
+    "location": "Dhaka, Bangladesh",
+    "experiences": [
+      "Worked on CNN model "
+    ],
+    "imageSrc": "company/kaggle.png"
+  }
+
+
+
+]
